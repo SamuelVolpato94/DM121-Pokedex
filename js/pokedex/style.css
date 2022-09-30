@@ -1,0 +1,13 @@
+div{
+    background-color: lightblue;
+    padding: 4px;
+    float: left;
+    width: 120px;
+    margin: 0 4px 4px 0;
+}
+
+div h2 {
+    font-size: 14px;
+    text-transform: capitalize;
+    margin: 0;
+}
